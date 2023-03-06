@@ -16,8 +16,8 @@ Será avaliado no desafio:
 Para nos enviar o código, crie um fork desse repositório e quando finalizar, mande um pull-request para nós.
 
 O projeto deve ser desenvolvido em:
-        - HTML, CSS e JS.
-        - Podendo utilizar frameworks JS (Knockout, Angular ou ReackJS).
-        - Podendo utilizar frameworks CSS/SASS (Boostrap ou Tailwind).
+    HTML, CSS e JS.
+    Podendo utilizar frameworks JS (Knockout, Angular ou ReackJS).
+    Podendo utilizar frameworks CSS/SASS (Boostrap ou Tailwind).
 
 Gostaríamos que fosse evitado a utilização de frameworks, e que tivesse uma explicação do que é necessário para funcionar o projeto e os testes.
