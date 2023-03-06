@@ -2,7 +2,7 @@ Em época de informatização, pessoas com páginas web com seu perfil e portif�
 
     Criar uma página web com as informações do seu curriculo.
     Implementar um botão com a função DARK MODE na página.
-    Implementar a edição as dos textos contidos na página.
+    Implementar a edição dos textos contidos na página.
     A página deve ser responsiva.
 
 Será avaliado no desafio:
